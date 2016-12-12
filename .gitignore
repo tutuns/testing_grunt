@@ -1,4 +1,6 @@
 # Build and Release Folders
+node_modules/
+bower_components
 bin/
 bin-debug/
 bin-release/

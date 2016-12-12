@@ -1,0 +1,20 @@
+{
+  "name": "testing_grunt",
+  "description": "this is testing  for grunt",
+  "main": "index.js",
+  "authors": [
+    "tutuns <tutunshk@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/tutuns/testing_grunt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "3.3.7"
+  }
+}
